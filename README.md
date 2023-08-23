@@ -9,7 +9,7 @@
 
 ## Навыки и технологии
 
-''Jira'', ''gase.io'', ''SQL'', ''Swagger', ''Trello'', ''SoapUi'', ''Chrome DevTools''
+Jira, gase.io, SQL, Swagger, Trello, SoapUi, Chrome DevTools
 
 
 ## Проекты
