@@ -9,7 +9,8 @@
 
 ## Навыки и технологии
 
-''{Jira}'',''{gase.io}'',''{SQL}'',''{Swagger}',''{Trello}'',''{SoapUi}'',''{Chrome DevTools}''
+- Инструменты анализа данных: ''Jira''
+''gase.io'',''SQL'',''Swagger',''Trello'',''SoapUi'',''Chrome DevTools''
 
 
 
